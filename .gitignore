@@ -1,0 +1,18 @@
+# Rust
+/target
+Cargo.lock
+
+# C++
+*.obj
+*.exe
+*.pdb
+/build
+
+# Solidity / Hardhat
+/artifacts
+/cache
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
