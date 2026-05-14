@@ -1,0 +1,13 @@
+# Design Principles: River Flow & World Restoration
+
+## 1. Environmental Restoration Logic
+This project integrates the **River Flow Initiative** design logic. The world physics in *Iron Odyssey* are not just aesthetic; they are built on conceptual hooks for restoration:
+*   **Debris Removal Algorithms**: In-game water physics simulate the clearing of waterways.
+*   **Wave Engineering**: Incorporates "World-Class Wave" generation logic for high-fidelity fluid dynamics.
+
+## 2. Aesthetic Modernization
+The 3D modernization focuses on high-integrity textures and lighting, moving away from legacy limitations while maintaining the original artistic intent.
+
+## 3. Slogan & Vision
+"Let's make history in the right direction."
+
